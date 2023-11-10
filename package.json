@@ -36,7 +36,7 @@
     "typescript": "3.7.2"
   },
   "dependencies": {
-    "axios": "0.19.0"
+    "axios": "1.6.0"
   },
   "company": "Symlink GmbH",
   "homepage": "https://2ndlock.com",
